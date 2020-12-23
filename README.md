@@ -16,7 +16,7 @@ terraform apply
 
 ## As result
 
-the result will be 3 resources created, use `terraform state list` to check the list
+use `terraform state list` to check the list of created resources
 
 ```bash
 random_id.name
